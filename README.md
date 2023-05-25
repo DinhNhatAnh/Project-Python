@@ -17,19 +17,13 @@ Repository containing portfolio of Python Projects completed by me for self lear
   - To find the relationship between variables 
   - Using Logistic Regression model to predict survivability of a person based on datasets.
 
-3. [Marketing Campaign](https://github.com/DinhNhatAnh/Project-Python/blob/master/Marketing%20Campagn.ipynb)
-
-The objective of this project:
-  - EDA (Explortory Data Analysis)
-  - Analyzing shopping spending behavior of customers based on age, number of children and marital status.
-
-4. [Pokemon Project](https://github.com/DinhNhatAnh/Project-Python/blob/master/Pokemon%20Project.ipynb)
+3. [Pokemon Project](https://github.com/DinhNhatAnh/Project-Python/blob/master/Pokemon%20Project.ipynb)
 
 The objective of this project:
   - EDA (Explortory Data Analysis)
   - Analyzing and comparing each special ability all kinds of Pokemon.
   - Find out the strongest Pokemon for each stat (Attack, Defense, Special Attack, Special Defense, Speed, HP)
 
-5. [Student Management Project](https://github.com/DinhNhatAnh/Project-Python/blob/master/Student_management_Project.py)
+4. [Student Management Project](https://github.com/DinhNhatAnh/Project-Python/blob/master/Student_management_Project.py)
 
 This project is the final project in the basic Python course. This is an application coded in Python and built on the Tkinter library, used to manage students according to CRUD method.
