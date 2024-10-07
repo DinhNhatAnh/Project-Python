@@ -27,3 +27,7 @@ The objective of this project:
 4. [Student Management Project](https://github.com/DinhNhatAnh/Project-Python/blob/master/Student_management_Project.py)
 
 This project is the final project in the basic Python course. This is an application coded in Python and built on the Tkinter library, used to manage students according to CRUD method.
+
+5. [Student Management Project](https://github.com/DinhNhatAnh/Python-Projects/blob/master/Main.py))
+
+This is an application coded in Python and built on the Tkinter library, used to grading points for teacher in order to save the time.
